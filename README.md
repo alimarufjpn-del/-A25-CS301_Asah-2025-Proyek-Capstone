@@ -1,4 +1,5 @@
-# -A25-CS301_Asah-2025-Proyek-Capstone
+# Ringkasan Proyek
+
 Segmentasi pelanggan dengan menggunakan pendekatan RFM.
 	Tim menargetkan pemasaran yang lebih tepat dengan memetakan pelanggan dari data transaksi ritel tahun 2009 hingga 2011. Tantangan utamanya promosi masih dikirim massal sehingga biaya tinggi dan dampak rendah. Data dibersihkan hingga tersisa sekitar tujuh ratus tujuh puluh sembilan ribu baris dengan penghapusan duplikat dan pembatalan invoice. Total belanja dihitung per baris lalu dibentuk tabel RFM per pelanggan. Outlier ditangani dengan IQR, fitur Frequency dan Monetary ditransformasikan log, kemudian semua fitur diskalakan agar siap untuk pemodelan. 
 Pertanyaan riset yang diajukan adalah berapa banyak segmen yang paling masuk akal untuk data ini. Apa ciri utama tiap segmen jika dilihat dari recency frequency dan monetary. Seberapa baik kualitas pemisahan segmen menurut metrik evaluasi. Apakah pola segmen tetap konsisten pada data terbaru di luar periode latih. Aksi pemasaran apa yang paling relevan untuk setiap segmen.
