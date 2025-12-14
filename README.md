@@ -7,5 +7,4 @@ Model utama memakai KMeans dengan pemilihan jumlah klaster melalui elbow dan sil
 Proyek ini dipilih karena masalahnya umum di ritel dan dampaknya terukur pada tingkat pembelian ulang serta nilai pesanan rata rata. RFM mudah dipahami pemangku kepentingan sehingga hasil dapat segera dipakai tanpa infrastruktur rumit. Artefak yang dihasilkan meliputi tabel RFM, label klaster per pelanggan, ringkasan metrik per klaster, persona singkat dengan rekomendasi aksi, serta grafik untuk presentasi. Langkah lanjut yang disiapkan adalah rencana uji A B untuk kampanye win back dan peningkatan nilai pesanan bagi pelanggan bernilai tinggi.
 
 # Petunjuk Setup Enviorment
-markdown
 [Dokumentasi Guidline Proyek](https://drive.google.com/file/d/1Zf-UQfcnB1VhcCdCseSlsM6uHCU6ofgC/view)
